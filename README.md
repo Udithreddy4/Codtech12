@@ -12,4 +12,5 @@
 
 **MENTOR NAME**   :Neela Santhosh Kumar
 
-#DESCRIPTION OF THE TASK:
+# DESCRIPTION OF THE TASK:
+The CODTECH AI Internship involves four tasks: text summarization, speech-to-text system, neural style transfer, and text generation.
