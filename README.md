@@ -14,6 +14,3 @@
 
 # DESCRIPTION OF THE TASK:
 The CODTECH AI Internship involves four tasks: text summarization, speech-to-text system, neural style transfer, and text generation.
-
-**TASK1 OUTPUT**   :
-https://github.com/Udithreddy4/Codtech12/issues/1
